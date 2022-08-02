@@ -1,0 +1,14 @@
+[user]
+	email = e3matheus@gmail.com
+	name = Elías Matheus
+[alias]
+	 h  = log --pretty=format:'%Creset%C(red bold)[%ad] %C(blue bold)%h %Creset%C(magenta bold)%d %Creset%s %C(green bold)(%an)%Creset' --graph --abbrev-commit --date=short        
+	 ha = log --pretty=format:'%Creset%C(red bold)[%ad] %C(blue bold)%h %Creset%C(magenta bold)%d %Creset%s %C(green bold)(%an)%Creset' --graph --all --abbrev-commit --date=short
+	 rml = branch -a --merged | grep -v -e HEAD -e master -e remotes | xargs git branch -D
+[color]
+	 branch = auto
+	 status = auto
+	 diff = auto
+[core]
+	 editor = vim
+	compression = 0

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/reservamos/code/reservamos-purchase/app/views/tickets'
+let g:netrw_dirhist_0='/Users/reservamos/code/reservamos-transporters/test/buses/iamsa/saas/stgt/parsing'
+let g:netrw_dirhist_9='/Users/reservamos/code/reservamos-transporters/lib/buses/iamsa/saas/constants'
+let g:netrw_dirhist_8='/Users/reservamos/code/frontline/config/routes'
+let g:netrw_dirhist_7='/Users/reservamos/code/reservamos-transporters'
+let g:netrw_dirhist_6='/Users/reservamos/code/whitelabel-funnel/src/server'
+let g:netrw_dirhist_5='/Users/reservamos/code/whitelabel-funnel/src'
+let g:netrw_dirhist_4='/Users/reservamos/code/reservamos-transporters/lib/buses/gfa/utils'
+let g:netrw_dirhist_3='/Users/reservamos/code/reservamos-admin/app/controllers'
+let g:netrw_dirhist_2='/Users/reservamos/code/parseamos/app/models'
